@@ -1,2 +1,2 @@
 # test_repo
-This is test repo for learning how to use GitHub functions
+This is test repo for me to learn and practice how to use GitHub functions
