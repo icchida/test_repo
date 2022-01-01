@@ -1,2 +1,2 @@
 this is created by hackeT local.
-
+(global)
